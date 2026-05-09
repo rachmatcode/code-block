@@ -1,5 +1,5 @@
 1. Tahap Analisis
-Tahap analisis bertujuan untuk memahami kebutuhan sistem, kondisi eksisting, serta permasalahan yang dihadapi.
+Tahap analisis bertujuan untuk memahami kebutuhan sistem, kondisi eksisting.
 Identifikasi permasalahan dan kebutuhan pengguna.
 Pengumpulan data melalui observasi, wawancara, dan studi dokumentasi.
 Analisis proses bisnis yang sedang berjalan.
